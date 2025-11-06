@@ -1,0 +1,3 @@
+cd C:/Users/conna/Documents/GitHub/MONET_DFU
+conda activate MONET
+jupyter notebook tutorial/automatic_concept_annotation.ipynb
